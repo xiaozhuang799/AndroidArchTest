@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidArchTest</string>
+
+    <string name="first_name">first name</string>
+
+    <string name="last_name">last name</string>
+</resources>
